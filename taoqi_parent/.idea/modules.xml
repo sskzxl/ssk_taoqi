@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_common/taoqi_common.iml" filepath="$PROJECT_DIR$/../taoqi_common/taoqi_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_manager/taoqi_manager.iml" filepath="$PROJECT_DIR$/../taoqi_manager/taoqi_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_manager/taoqi_mapper/taoqi_mapper.iml" filepath="$PROJECT_DIR$/../taoqi_manager/taoqi_mapper/taoqi_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoqi_parent.iml" filepath="$PROJECT_DIR$/taoqi_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_manager/taoqi_pojo/taoqi_pojo.iml" filepath="$PROJECT_DIR$/../taoqi_manager/taoqi_pojo/taoqi_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_manager/taoqi_service/taoqi_service.iml" filepath="$PROJECT_DIR$/../taoqi_manager/taoqi_service/taoqi_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taoqi_manager/taoqi_web/taoqi_web.iml" filepath="$PROJECT_DIR$/../taoqi_manager/taoqi_web/taoqi_web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taoqi_common" />
+        <module name="taoqi_mapper" />
+        <module name="taoqi_pojo" />
+        <module name="taoqi_service" />
+        <module name="taoqi_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taoqi_common" target="1.7" />
+      <module name="taoqi_manager" target="1.7" />
+      <module name="taoqi_mapper" target="1.7" />
+      <module name="taoqi_parent" target="1.7" />
+      <module name="taoqi_pojo" target="1.7" />
+      <module name="taoqi_service" target="1.7" />
+      <module name="taoqi_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

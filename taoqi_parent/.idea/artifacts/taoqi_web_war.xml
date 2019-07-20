@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taoqi_web:war">
+    <output-path>$PROJECT_DIR$/../taoqi_manager/taoqi_web/target</output-path>
+    <root id="archive" name="taoqi_web.war">
+      <element id="artifact" artifact-name="taoqi_web:war exploded" />
+    </root>
+  </artifact>
+</component>
